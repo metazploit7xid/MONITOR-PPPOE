@@ -1,0 +1,6 @@
+{
+  "name": "MikroTik PPPoE Monitor",
+  "description": "Real-time PPPoE monitoring dashboard for multiple MikroTik routers with Web, WhatsApp, and Telegram notification setup via QR code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
